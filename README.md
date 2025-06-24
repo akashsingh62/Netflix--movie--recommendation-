@@ -12,7 +12,7 @@ A Flask-powered web app to recommend movies similar to a given title, complete w
 
 ## Demo
 
-![Movie Recommendation Screenshot]
+                                             [Movie Recommendation Screenshot]
  ![img alt]https://github.com/akashsingh62/Netflix--movie--recommendation-/blob/main/movie%20recommendation%20img.png?raw=true)
 
 ## Getting Started
