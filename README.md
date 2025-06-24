@@ -12,8 +12,7 @@ A Flask-powered web app to recommend movies similar to a given title, complete w
 
 ## Demo
 
-                                             [Movie Recommendation Screenshot]
- ![img alt]https://github.com/akashsingh62/Netflix--movie--recommendation-/blob/main/movie%20recommendation%20img.png?raw=true)
+                                             [Movie Recommendation Screenshot]                                                                                       ![img alt]https://github.com/akashsingh62/Netflix--movie--recommendation-/blob/main/movie%20recommendation%20img.png?raw=true)
 
 ## Getting Started
 
@@ -27,7 +26,7 @@ A Flask-powered web app to recommend movies similar to a given title, complete w
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/akashsingh62/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
