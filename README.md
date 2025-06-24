@@ -27,7 +27,7 @@ A Flask-powered web app to recommend movies similar to a given title, complete w
 
 1. **Clone the repository:**
    ```bash
-    (https://github.com/akashsingh62?tab=repositories)
+    (https://github.com/akashsingh62)
    ```
 
 2. **Install dependencies:**
